@@ -1,4 +1,1 @@
-- Hi, I’m @sjbeazell
-- I’m interested in information security and coding
-- I’m currently learning python
-- I’m working on creating various ethical hacking tools in python and a stock market tracking program
+
